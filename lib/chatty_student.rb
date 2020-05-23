@@ -9,6 +9,3 @@ class ChattyStudent < Student
   end
 end
 
-a=ChattyStudent.new 
-a.hello
-a.raise
