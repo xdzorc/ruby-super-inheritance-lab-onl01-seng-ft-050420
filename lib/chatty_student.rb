@@ -9,3 +9,6 @@ class ChattyStudent < Student
     10.times {puts"#{super}\n"}
   end
 end
+
+a=ChattyStudent.new 
+a.hello
