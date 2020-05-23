@@ -12,3 +12,4 @@ end
 
 a=ChattyStudent.new 
 a.hello
+a.raise_hand
